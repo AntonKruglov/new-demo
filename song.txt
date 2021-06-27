@@ -7,10 +7,13 @@ Form the lines
 Shield by shield
 Side by side
 <<<<<<< HEAD
+<<<<<<< HEAD
 We're marching into destiny
 
 March as one
 Don't look back
 =======
 We're marching into destiny
+>>>>>>> feature
+=======
 >>>>>>> feature
